@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.636" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-24T20:05:31.509639700Z">
+<testcase classname="Search and Place the order for Products" name="Search Experince for product search in offer page" time="6.432">
+<system-out><![CDATA[
+Given User on GreenCart Landing page........................................passed
+When user click on offer deals link.........................................passed
+Then user lands on offer page...............................................passed
+Then user searched for "Tom" in offers page.................................passed
+And extract the name........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

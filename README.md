@@ -86,6 +86,7 @@ mvn clean test -Dcucumber.options="path/to/featurefile.feature" (provide path to
 **Run test case through Jenkins**
 
 Select the parameter browser and tags you want to run
+Then click on build to run the test cases
 
 <img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/0006004b-eea3-4fb7-b64d-c0b8fc55212e" />
 

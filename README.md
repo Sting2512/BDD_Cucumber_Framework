@@ -9,11 +9,17 @@ The framework supports scalable, behavior-driven testing and automated, continuo
 **INSTALLATION & PREREQUISITIES** (Software and Plugins)
 
 1.JDK (JDK-23 or latest version)
+
 2.Eclipse IDE or Supported IDE(your choice) 
+
 3.Selenium
+
 4.Maven
+
 5.Cucumber
+
 6.TestNG
+
 7.Jenkins (if you want to run CI/CD pipeline)
 
 **Framework Setup**

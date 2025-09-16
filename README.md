@@ -1,6 +1,6 @@
-BDD CUCUMBER FRAMEWORK
+**BDD CUCUMBER FRAMEWORK**
 
-JAVA-SELENIUM-CUCUMBER-TESTNG  
+**JAVA-SELENIUM-CUCUMBER-TESTNG**
 
 Developed an automated testing framework using Java, Selenium WebDriver, Cucumber (BDD), and TestNG, with integration to Jenkins for CI/CD. 
 Implemented Extent Spark Reporting for comprehensive HTML test reports and enabled JSON report generation for structured analysis. 
@@ -24,3 +24,5 @@ The project is organized as a Maven-based Java automation framework integrating 
 
 
 <img width="255" height="270" alt="image" src="https://github.com/user-attachments/assets/9c42cd5b-ac3a-4e0c-894b-5330d8020811" />
+
+

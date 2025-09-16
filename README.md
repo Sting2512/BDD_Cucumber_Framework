@@ -21,4 +21,6 @@ To setup the framework you can either clone the repository or download the zip f
 
 Project Structure Overview (Eclipse)
 The project is organized as a Maven-based Java automation framework integrating Selenium, Cucumber, and TestNG for behavior-driven development and test execution.
+
+
 <img width="255" height="270" alt="image" src="https://github.com/user-attachments/assets/9c42cd5b-ac3a-4e0c-894b-5330d8020811" />
